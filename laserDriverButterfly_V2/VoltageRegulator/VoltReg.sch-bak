@@ -69,12 +69,12 @@ Connection ~ 4600 2350
 Text Label 4700 2350 0    50   ~ 0
 CoolDrain
 $Comp
-L Connector_Generic:Conn_02x01 J?
+L Connector_Generic:Conn_02x01 J+12V?
 U 1 1 62062E7A
 P 2800 2350
-AR Path="/62035CB7/62062E7A" Ref="J?"  Part="1" 
-AR Path="/62062E7A" Ref="J1"  Part="1" 
-F 0 "J1" H 2850 2600 50  0000 R CNN
+AR Path="/62035CB7/62062E7A" Ref="J+12V?"  Part="1" 
+AR Path="/62062E7A" Ref="J+12V1"  Part="1" 
+F 0 "J+12V1" H 2850 2600 50  0000 R CNN
 F 1 "Conn_02x01" H 3050 2500 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 2800 2350 50  0001 C CNN
 F 3 "~" H 2800 2350 50  0001 C CNN
@@ -258,12 +258,12 @@ Connection ~ 3000 4400
 Wire Wire Line
 	3000 4400 3000 4450
 $Comp
-L Connector_Generic:Conn_02x01 J?
+L Connector_Generic:Conn_02x01 J+5V?
 U 1 1 62062EDB
 P 3000 4750
-AR Path="/62035CB7/62062EDB" Ref="J?"  Part="1" 
-AR Path="/62062EDB" Ref="J2"  Part="1" 
-F 0 "J2" H 3050 4650 50  0000 R CNN
+AR Path="/62035CB7/62062EDB" Ref="J+5V?"  Part="1" 
+AR Path="/62062EDB" Ref="J+5V1"  Part="1" 
+F 0 "J+5V1" H 3050 4650 50  0000 R CNN
 F 1 "Conn_02x01" H 3200 4550 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 3000 4750 50  0001 C CNN
 F 3 "~" H 3000 4750 50  0001 C CNN
@@ -421,12 +421,12 @@ $EndComp
 Wire Wire Line
 	2450 2350 2600 2350
 $Comp
-L Connector_Generic:Conn_02x01 J+12V?
+L Connector_Generic:Conn_02x01 JGND?
 U 1 1 62126BE3
 P 3450 1500
-AR Path="/62035CB7/62126BE3" Ref="J+12V?"  Part="1" 
-AR Path="/62126BE3" Ref="J+12V1"  Part="1" 
-F 0 "J+12V1" H 3550 1650 50  0000 R CNN
+AR Path="/62035CB7/62126BE3" Ref="JGND?"  Part="1" 
+AR Path="/62126BE3" Ref="JGND1"  Part="1" 
+F 0 "JGND1" H 3550 1650 50  0000 R CNN
 F 1 "Conn_02x01" H 3700 1650 50  0001 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 3450 1500 50  0001 C CNN
 F 3 "~" H 3450 1500 50  0001 C CNN
@@ -636,12 +636,12 @@ Wire Wire Line
 Wire Wire Line
 	4300 1200 4400 1200
 $Comp
-L Connector_Generic:Conn_02x01 J+5V?
+L Connector_Generic:Conn_02x01 JGND?
 U 1 1 62126BE9
 P 4300 1500
-AR Path="/62035CB7/62126BE9" Ref="J+5V?"  Part="1" 
-AR Path="/62126BE9" Ref="J+5V1"  Part="1" 
-F 0 "J+5V1" H 4400 1650 50  0000 R CNN
+AR Path="/62035CB7/62126BE9" Ref="JGND?"  Part="1" 
+AR Path="/62126BE9" Ref="JGND2"  Part="1" 
+F 0 "JGND2" H 4400 1650 50  0000 R CNN
 F 1 "Conn_02x01" H 4550 1650 50  0001 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 4300 1500 50  0001 C CNN
 F 3 "~" H 4300 1500 50  0001 C CNN
@@ -703,8 +703,8 @@ L Connector_Generic:Conn_02x03_Odd_Even JGND?
 U 1 1 622ADF8B
 P 6550 4600
 AR Path="/62035CB7/622ADF8B" Ref="JGND?"  Part="1" 
-AR Path="/622ADF8B" Ref="JGND1"  Part="1" 
-F 0 "JGND1" H 6600 4825 50  0000 C CNN
+AR Path="/622ADF8B" Ref="JGND3"  Part="1" 
+F 0 "JGND3" H 6600 4825 50  0000 C CNN
 F 1 "Conn_02x03_Odd_Even" H 6600 4826 50  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 6550 4600 50  0001 C CNN
 F 3 "~" H 6550 4600 50  0001 C CNN

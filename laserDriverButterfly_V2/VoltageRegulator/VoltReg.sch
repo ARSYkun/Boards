@@ -103,7 +103,7 @@ Wire Wire Line
 Wire Wire Line
 	3950 2650 3950 2700
 $Comp
-L aab_lib:3266W-1-102LF VR?
+L VoltReg-rescue:3266W-1-102LF-aab_lib VR?
 U 1 1 62062E8C
 P 4200 2900
 AR Path="/62035CB7/62062E8C" Ref="VR?"  Part="1" 
@@ -207,7 +207,7 @@ F 3 "~" H 4400 4950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L aab_lib:3266W-1-102LF VR?
+L VoltReg-rescue:3266W-1-102LF-aab_lib VR?
 U 1 1 62062EC3
 P 3950 4850
 AR Path="/62035CB7/62062EC3" Ref="VR?"  Part="1" 
@@ -289,7 +289,7 @@ F 3 "~" H 3450 4100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L aab_lib:LP3878MR-ADJ_NOPB U?
+L VoltReg-rescue:LP3878MR-ADJ_NOPB-aab_lib U?
 U 1 1 62062EEA
 P 3550 4100
 AR Path="/62035CB7/62062EEA" Ref="U?"  Part="1" 
@@ -601,7 +601,7 @@ F 3 "~" H 5750 3650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L aab_lib:IRF5852PbF U?
+L VoltReg-rescue:IRF5852PbF-aab_lib U?
 U 1 1 62062F0F
 P 5850 3300
 AR Path="/62035CB7/62062F0F" Ref="U?"  Part="1" 
