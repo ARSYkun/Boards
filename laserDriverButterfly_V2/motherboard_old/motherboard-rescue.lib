@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LD-aab_lib
+#
+DEF LD-aab_lib U 0 40 Y Y 1 F N
+F0 "U" 600 150 50 H V C CNN
+F1 "LD-aab_lib" 600 -750 50 H V C CNN
+F2 "" 600 150 50 H I C CNN
+F3 "" 600 150 50 H I C CNN
+DRAW
+S 100 100 1100 -700 0 1 0 f
+X CoolAnod 1 0 0 100 R 50 50 1 1 I
+X LDanode 10 1200 -400 100 L 50 50 1 1 I
+X LDcathode 11 1200 -300 100 L 50 50 1 1 I
+X NC 12 1200 -200 100 L 50 50 1 1 I
+X Case 13 1200 -100 100 L 50 50 1 1 I
+X Coolcathode 14 1200 0 100 L 50 50 1 1 I
+X Thermistor 2 0 -100 100 R 50 50 1 1 I
+X PDanode 3 0 -200 100 R 50 50 1 1 I
+X PDcathode 4 0 -300 100 R 50 50 1 1 I
+X Thermistor 5 0 -400 100 R 50 50 1 1 I
+X NC 6 0 -500 100 R 50 50 1 1 I
+X NC 7 0 -600 100 R 50 50 1 1 I
+X NC 8 1200 -600 100 L 50 50 1 1 I
+X NC 9 1200 -500 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
