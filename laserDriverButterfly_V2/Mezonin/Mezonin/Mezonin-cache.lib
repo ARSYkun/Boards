@@ -64,11 +64,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# aab_lib_LD
+# Mezonin-rescue_LD-aab_lib
 #
-DEF aab_lib_LD U 0 40 Y Y 1 F N
+DEF Mezonin-rescue_LD-aab_lib U 0 40 Y Y 1 F N
 F0 "U" 600 150 50 H V C CNN
-F1 "aab_lib_LD" 600 -750 50 H V C CNN
+F1 "Mezonin-rescue_LD-aab_lib" 600 -750 50 H V C CNN
 F2 "" 600 150 50 H I C CNN
 F3 "" 600 150 50 H I C CNN
 DRAW

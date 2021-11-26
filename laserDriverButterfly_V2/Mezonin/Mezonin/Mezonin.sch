@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L aab_lib:LD U1
+L Mezonin-rescue:LD-aab_lib U1
 U 1 1 6192372B
 P 5250 2700
 F 0 "U1" H 5850 2965 50  0000 C CNN
