@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Mezonin-rescue)(type Legacy)(uri ${KIPRJMOD}/Mezonin-rescue.lib)(options "")(descr ""))
+)
