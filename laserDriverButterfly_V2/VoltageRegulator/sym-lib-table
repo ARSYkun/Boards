@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name VoltReg-rescue)(type Legacy)(uri ${KIPRJMOD}/VoltReg-rescue.lib)(options "")(descr ""))
-)
