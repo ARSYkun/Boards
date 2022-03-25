@@ -1,0 +1,21 @@
+[DesignatorManager]
+LogicalDesignator0=X2
+LogicalPartID0=1
+DocumentName0=EV76C661_Motherboard.SchDoc
+ChannelName0=EV76C661_Motherboard
+UniqueID0=\GKPQFLCJ
+PhysicalDesignator0=0_18D
+PhysicalDesignatorLocked0=0
+LogicalDesignator1=X1
+LogicalPartID1=1
+DocumentName1=EV76C661_Motherboard.SchDoc
+ChannelName1=EV76C661_Motherboard
+UniqueID1=\TJMVDXWS
+PhysicalDesignator1=0_18A 1_33A
+PhysicalDesignatorLocked1=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
