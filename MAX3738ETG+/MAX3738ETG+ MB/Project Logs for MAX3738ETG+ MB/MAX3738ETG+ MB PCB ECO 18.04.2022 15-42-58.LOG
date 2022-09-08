@@ -1,0 +1,27 @@
+Added Component: Designator=X5(MAX3738ETG+ MEZ)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Pin To Net: NetName=PC_MON Pin=X5-7
+Added Pin To Net: NetName=PC_MON Pin=X5-7
+Added Pin To Net: NetName=BC_MON Pin=X5-8
+Added Pin To Net: NetName=BC_MON Pin=X5-8
+Added Pin To Net: NetName=SHUTDOWN Pin=X5-9
+Added Pin To Net: NetName=GND Pin=X5-10
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X5 MAX3738ETG+ MEZ

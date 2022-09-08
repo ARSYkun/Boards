@@ -1,0 +1,215 @@
+Added Component: Designator=C1(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP_1812)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CAP_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(IND_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(IND_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(BNC_RA CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(BNC_RA CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(BNC_RA CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES 3266W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RES_0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1(AMP_VOLTMETER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(POWER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X2(CHEAP_CONN_FEMALE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X3(AMP_VOLTMETER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X4(DHR-26F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X5(MAX3738ETG+ MEZ)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X6(RELAY_MODULE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC STAB Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC STAB Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=NetC3_2 Pin=L1-2
+Added Pin To Net: NetName=NetC3_2 Pin=L2-1
+Added Pin To Net: NetName=VCC STAB Pin=L2-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=VCC STAB Pin=VD1-2
+Added Pin To Net: NetName=VCC Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X2-6
+Added Pin To Net: NetName=GND Pin=X2-11
+Added Pin To Net: NetName=GND Pin=X2-16
+Added Pin To Net: NetName=GND Pin=X2-24
+Added Pin To Net: NetName=GND Pin=X2-29
+Added Pin To Net: NetName=GND Pin=X2-34
+Added Pin To Net: NetName=GND Pin=X2-38
+Added Pin To Net: NetName=GND Pin=X2-39
+Added Pin To Net: NetName=GND Pin=X4-27
+Added Pin To Net: NetName=GND Pin=X4-28
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=VCC STAB Pin=X5-2
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=VCC STAB Pin=X5-5
+Added Pin To Net: NetName=GND Pin=X5-10
+Added Pin To Net: NetName=VCC STAB Pin=X6-1
+Added Pin To Net: NetName=GND Pin=X6-4
+Added Pin To Net: NetName=GND Pin=X6-12
+Added Pin To Net: NetName=+5 Pin=X1-2
+Added Pin To Net: NetName=+5 Pin=X6-13
+Added Net: Name=+5
+Added Pin To Net: NetName=APCSET Pin=R4-3
+Added Net: Name=APCSET
+Added Pin To Net: NetName=BC_MON Pin=X3-2
+Added Pin To Net: NetName=BC_MON Pin=X5-8
+Added Pin To Net: NetName=BC_MON Pin=X5-8
+Added Net: Name=BC_MON
+Added Pin To Net: NetName=IN1 Pin=X2-15
+Added Pin To Net: NetName=IN1 Pin=X6-8
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=X2-33
+Added Pin To Net: NetName=IN2 Pin=X6-7
+Added Net: Name=IN2
+Added Pin To Net: NetName=LD Pin=VD1-1
+Added Net: Name=LD
+Added Pin To Net: NetName=MD Pin=VD1-4
+Added Pin To Net: NetName=MD Pin=X6-2
+Added Pin To Net: NetName=MD Pin=X6-5
+Added Net: Name=MD
+Added Pin To Net: NetName=MODBCOMP Pin=R6-3
+Added Net: Name=MODBCOMP
+Added Pin To Net: NetName=MODSET Pin=R5-3
+Added Net: Name=MODSET
+Added Pin To Net: NetName=MODTCOMP Pin=R1-3
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Pin To Net: NetName=MODTCOMP Pin=X5-1
+Added Net: Name=MODTCOMP
+Added Pin To Net: NetName=NetR3_3 Pin=R3-3
+Added Pin To Net: NetName=NetR3_3 Pin=X3-1
+Added Net: Name=NetR3_3
+Added Pin To Net: NetName=PC_MON Pin=P1-1
+Added Pin To Net: NetName=PC_MON Pin=R2-3
+Added Pin To Net: NetName=PC_MON Pin=X5-7
+Added Pin To Net: NetName=PC_MON Pin=X5-7
+Added Net: Name=PC_MON
+Added Pin To Net: NetName=PRBS2_N Pin=C7-2
+Added Pin To Net: NetName=PRBS2_N Pin=R8-1
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Pin To Net: NetName=PRBS2_N Pin=X5-4
+Added Net: Name=PRBS2_N
+Added Pin To Net: NetName=PRBS2_P Pin=C6-2
+Added Pin To Net: NetName=PRBS2_P Pin=R8-2
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Pin To Net: NetName=PRBS2_P Pin=X5-3
+Added Net: Name=PRBS2_P
+Added Pin To Net: NetName=PRBS_N Pin=C7-1
+Added Pin To Net: NetName=PRBS_N Pin=X4-8
+Added Net: Name=PRBS_N
+Added Pin To Net: NetName=PRBS_P Pin=C6-1
+Added Pin To Net: NetName=PRBS_P Pin=X4-7
+Added Net: Name=PRBS_P
+Added Pin To Net: NetName=SHUTDOWN Pin=P2-1
+Added Pin To Net: NetName=SHUTDOWN Pin=X5-9
+Added Net: Name=SHUTDOWN
+Added Pin To Net: NetName=TH_TEMP Pin=R7-3
+Added Net: Name=TH_TEMP
+Added Pin To Net: NetName=TX_DISABLE Pin=X2-32
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Pin To Net: NetName=TX_DISABLE Pin=X5-6
+Added Net: Name=TX_DISABLE
+Change Class Name : Old Net Name=MAX3738ETG+ New Net Name=MAX3738ETG+ MB
+Added Differential Pair: Name=PRBS2
+Added Differential Pair: Name=PRBS
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C1 0,1uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C2 10uF_1812
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C3 0,1uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C4 0,1uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C5 0,01uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C6 0,1uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component C7 0,1uF_0603
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component L1 4,7uH
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component L2 4,7uH
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component P1 BNC
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component P2 BNC
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component P3 BNC
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R1 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R2 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R3 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R4 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R5 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R6 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R7 RES 3266W
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component R8 100 Om_0805
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component VD1 LD with MD
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X1 POWER
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X2 CHEAP_CON_37_FEMALE
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X3 AMPVOLT
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X4 DHR-26F
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X5 MAX3738ETG+ MEZ
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X6 RELAY

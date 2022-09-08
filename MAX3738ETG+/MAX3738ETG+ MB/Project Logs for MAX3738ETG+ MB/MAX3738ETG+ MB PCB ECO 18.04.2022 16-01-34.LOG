@@ -1,0 +1,8 @@
+Added Component: Designator=X1(POWER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=X1-1
+Added Pin To Net: NetName=+5 Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-6
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X1 POWER

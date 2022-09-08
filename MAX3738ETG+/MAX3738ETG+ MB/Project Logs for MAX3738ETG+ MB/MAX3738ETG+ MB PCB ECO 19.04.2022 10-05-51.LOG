@@ -1,0 +1,7 @@
+Added Component: Designator=X4(DHR-26F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PRBS_P Pin=X4-7
+Added Pin To Net: NetName=PRBS_N Pin=X4-8
+Added Pin To Net: NetName=GND Pin=X4-27
+Added Pin To Net: NetName=GND Pin=X4-28
+Added Member To Class: ClassName=MAX3738ETG+ MB Member=Component X4 DHR-26F

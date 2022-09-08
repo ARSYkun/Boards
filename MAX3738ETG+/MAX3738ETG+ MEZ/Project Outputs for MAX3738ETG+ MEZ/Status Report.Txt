@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MAX3738ETG+ MEZ.PrjPCB]
+   Generated File[MAX3738ETG+ MEZ.TXT]
+   Generated File[MAX3738ETG+ MEZ.LDP]
+   Generated File[MAX3738ETG+ MEZ.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:02:52 On 20.04.2022

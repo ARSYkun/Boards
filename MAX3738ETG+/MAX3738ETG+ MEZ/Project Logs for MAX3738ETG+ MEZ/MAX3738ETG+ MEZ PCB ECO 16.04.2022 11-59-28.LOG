@@ -1,0 +1,27 @@
+Added Component: Designator=D1(MAX3738ETG+)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MODTCOMP Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=IN+ Pin=D1-3
+Added Pin To Net: NetName=IN- Pin=D1-4
+Added Pin To Net: NetName=VCC Pin=D1-5
+Added Pin To Net: NetName=TX_DISABLE Pin=D1-6
+Added Pin To Net: NetName=PC_MON Pin=D1-7
+Added Pin To Net: NetName=BC_MON Pin=D1-8
+Added Pin To Net: NetName=SHUTDOWN Pin=D1-9
+Added Pin To Net: NetName=GND Pin=D1-10
+Added Pin To Net: NetName=GND Pin=D1-12
+Added Pin To Net: NetName=NetD1_13 Pin=D1-13
+Added Pin To Net: NetName=VCC Pin=D1-14
+Added Pin To Net: NetName=OUT- Pin=D1-15
+Added Pin To Net: NetName=OUT+ Pin=D1-16
+Added Pin To Net: NetName=VCC Pin=D1-17
+Added Pin To Net: NetName=MD Pin=D1-18
+Added Pin To Net: NetName=APCFILT1 Pin=D1-19
+Added Pin To Net: NetName=APCFILT2 Pin=D1-20
+Added Pin To Net: NetName=APCSET Pin=D1-21
+Added Pin To Net: NetName=MODSET Pin=D1-22
+Added Pin To Net: NetName=MODBCOMP Pin=D1-23
+Added Pin To Net: NetName=TH_TEMP Pin=D1-24
+Added Member To Class: ClassName=MAX3738ETG+ MEZ Member=Component D1 MAX3738ETG+
+Added Member To Class: ClassName=MAX3738ETG+ MEZ Member=Component P3 Header 3X2A
