@@ -1,0 +1,4 @@
+Added Component: Designator=LD1(SLD-1550-ANR)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SLD-1550-ANR Member=Component LD1 SLD-1550-ANR
+Added Room: Name=SLD-1550-ANR

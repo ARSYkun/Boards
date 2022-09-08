@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LD1 Term1 Pin=P1-1
+Removed Pin From Net: NetName=LD1 Term2 Pin=P1-2
+Removed Pin From Net: NetName=Channel 0 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Member From Class: ClassName=SLD-1550-ANR Member=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1

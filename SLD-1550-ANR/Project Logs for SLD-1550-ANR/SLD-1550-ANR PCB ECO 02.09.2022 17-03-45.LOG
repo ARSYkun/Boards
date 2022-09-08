@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Added Member To Class: ClassName=SLD-1550-ANR Member=Component P1 Header 4
+Added Member To Class: ClassName=SLD-1550-ANR Member=Component P4 DS1069-2M
+Added Room: Name=SLD-1550-ANR

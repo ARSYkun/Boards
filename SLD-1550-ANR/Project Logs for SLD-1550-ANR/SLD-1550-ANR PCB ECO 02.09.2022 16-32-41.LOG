@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Channel 0 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Member To Class: ClassName=SLD-1550-ANR Member=Component P2 Header 4X2
+Added Room: Name=SLD-1550-ANR

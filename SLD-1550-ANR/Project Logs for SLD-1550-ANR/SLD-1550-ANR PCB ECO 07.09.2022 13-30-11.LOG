@@ -1,0 +1,5 @@
+Added Component: Designator=X2(AMP_VOLTMETER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LD1 Term1 Pin=X2-1
+Added Pin To Net: NetName=LD1 Term2 Pin=X2-2
+Added Member To Class: ClassName=SLD-1550-ANR Member=Component X2 AMPVOLT

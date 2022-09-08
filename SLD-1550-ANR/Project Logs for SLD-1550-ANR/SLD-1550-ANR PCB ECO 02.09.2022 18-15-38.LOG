@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Channel 1 Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Member From Class: ClassName=SLD-1550-ANR Member=P3
+Removed Member From Class: ClassName=SLD-1550-ANR Member=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Added Room: Name=SLD-1550-ANR
