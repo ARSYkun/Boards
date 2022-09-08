@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=+5 Pin=P3-1
+Removed Pin From Net: NetName=-5 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=PD1-1
+Removed Pin From Net: NetName=+5 Pin=PD1-2
+Removed Pin From Net: NetName=+5 Pin=X2-1
+Removed Pin From Net: NetName=+5 Pin=X2-2
+Removed Member From Class: ClassName=TFD-50RA Member=PD1
+Added Component: Designator=VD1(рдт-50пю)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Anode Pin=P1-1
+Added Pin To Net: NetName=Anode Pin=P4-1
+Added Pin To Net: NetName=Anode Pin=VD1-1
+Added Net: Name=Anode
+Added Pin To Net: NetName=Cathode Pin=P2-1
+Added Pin To Net: NetName=Cathode Pin=P3-1
+Added Pin To Net: NetName=Cathode Pin=VD1-2
+Added Net: Name=Cathode
+Added Member To Class: ClassName=TFD-50RA Member=Component VD1 рдт-50пю
+Added Room: Name=TFD-50RA

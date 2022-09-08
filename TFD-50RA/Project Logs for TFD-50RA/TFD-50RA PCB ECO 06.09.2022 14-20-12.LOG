@@ -1,0 +1,5 @@
+Added Component: Designator=PD?(рдт-50пю)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=PD?-1
+Added Pin To Net: NetName=+5 Pin=PD?-2
+Added Member To Class: ClassName=TFD-50RA Member=Component PD? рдт-50пю
