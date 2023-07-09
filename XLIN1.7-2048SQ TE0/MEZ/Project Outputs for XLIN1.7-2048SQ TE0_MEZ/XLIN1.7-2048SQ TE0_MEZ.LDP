@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\SAPR\AD18 Documents\Projects\XLIN1.7-2048SQ TE0\MEZ\XLIN1.7-2048SQ TE0_MEZ.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=xlin1.7-2048sq te0_mez-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=xlin1.7-2048sq te0_mez-slotholes.txt|DrillLayers=gtl,gbl
