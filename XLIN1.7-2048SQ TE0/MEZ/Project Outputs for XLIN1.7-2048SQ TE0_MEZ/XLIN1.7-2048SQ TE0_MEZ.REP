@@ -1,0 +1,111 @@
+*************************************************************
+FileName = XLIN1.7-2048SQ TE0_MEZ.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : XLIN1.7-2048SQ TE0_MEZ.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : XLIN1.7-2048SQ TE0_MEZ.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : XLIN1.7-2048SQ TE0_MEZ.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : XLIN1.7-2048SQ TE0_MEZ.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : XLIN1.7-2048SQ TE0_MEZ.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : XLIN1.7-2048SQ TE0_MEZ.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
