@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [VRef_LP3878_MEZ_.PrjPCB]
+   Generated File[VRef_LP3878_MEZ_0603-Plated.TXT]
+   Generated File[VRef_LP3878_MEZ_0603.LDP]
+   Generated File[VRef_LP3878_MEZ_0603.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:55:12 On 27.02.2023
