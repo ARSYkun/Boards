@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IPD171.PrjPCB]
+   Generated File[IPD171.TXT]
+   Generated File[IPD171.LDP]
+   Generated File[IPD171.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:53:03 On 22.02.2024
