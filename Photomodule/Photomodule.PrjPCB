@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QOOBGQWX
+DocumentUniqueId=OBWHRRTT
 
 [Document8]
 DocumentPath=Photomodule.PcbDoc
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BBLWCCNQ
+DocumentUniqueId=RKKWNEVX
 
 [Document13]
 DocumentPath=..\..\Library\vpl_lib\vpl_Active_NEW.PcbLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PLGXFPPU
+DocumentUniqueId=XVEEDKUB
 
 [Document15]
 DocumentPath=..\..\Library\vpl_lib\vpl_Schlib_NEW.SchLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GKDFITDY
+DocumentUniqueId=JGRUDAAQ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Photomodule\Design Rule Check - Photomodule.html
